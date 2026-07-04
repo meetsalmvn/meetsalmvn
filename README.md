@@ -62,6 +62,32 @@ I'm a passionate **2nd-Year Information Technology student** at **MCKV Institute
 
 # > Featured-Projects
 
+## 🤖 PDF Q&A — RAG System with Gemini
+
+**AI-powered Retrieval-Augmented Generation (RAG) application that answers questions about uploaded PDF documents using Google's Gemini API. Answers are grounded in document content with page-level citations to reduce hallucinations.**
+
+### ✨ Features
+
+- 📄 Upload and process multiple PDFs
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic search using embeddings
+- 📚 ChromaDB vector database
+- 📑 Page-level citations
+- ⚡ Streamlit web interface
+- ☁️ Deployable on Streamlit Community Cloud
+
+**Tech Stack**
+
+`Python` `Gemini API` `ChromaDB` `Streamlit` `pypdf`
+
+🌐 **Live Demo:**  
+https://rag-document-q-a-system.streamlit.app/
+
+🔗 **Repository:**  
+https://github.com/meetsalmvn/RAG-document-Q-A-system
+
+---
+
 ## 📅 EventX
 
 **College Event Management Platform**
