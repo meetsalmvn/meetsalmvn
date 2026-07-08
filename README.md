@@ -21,40 +21,47 @@ I'm a passionate **3rd-Year Information Technology student** at **MCKV Institute
 
 ---
 
-#  Tech-Stack
 
-## 💻 Languages
+# 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,bash,html,css,sql"/>
-</p>
+<div>
+<table>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,py,js,kotlin,bash,html,css,sql" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,vercel" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux" />
+    </td>
+  </tr>
+</table>
 
-## 🌐 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
-
-## ⚙️ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-## 🗄 Database & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,vercel"/>
-</p>
-
-## 🛠 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux"/>
-</p>
+<hr>
+</div>
 
 ---
-
 #  Featured-Projects
 
 ## 🤖 PDF Q&A — RAG System with Gemini
