@@ -1,18 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=260&section=header&text=%3E%20Initializing%20Developer%20Profile...&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=I'm+Salman+Ansari;Full+Stack+Developer;Android+Developer;Building+EventX...;Building+NoteCraft...;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
-</p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=220&section=header&text=Howdy,%20It's%20Salman%20Khurshid%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </div>
 
 ---
 
-# > whoami
+#  whoami
 
-I'm a passionate **2nd-Year Information Technology student** at **MCKV Institute of Engineering** with a strong interest in **Full Stack Development**, **Android Development**, and **Cloud Technologies**.
+I'm a passionate **3rd-Year Information Technology student** at **MCKV Institute of Engineering** with a strong interest in **Full Stack Development**, **Android Development**, and **Cloud Technologies**.
 
 - 🚀 **Currently Building:** EventX — College Event Management Platform
 - 📱 **Developing:** NoteCraft — Offline Android Notes App
@@ -26,7 +21,7 @@ I'm a passionate **2nd-Year Information Technology student** at **MCKV Institute
 
 ---
 
-# > Tech-Stack
+#  Tech-Stack
 
 ## 💻 Languages
 
@@ -60,7 +55,7 @@ I'm a passionate **2nd-Year Information Technology student** at **MCKV Institute
 
 ---
 
-# > Featured-Projects
+#  Featured-Projects
 
 ## 🤖 PDF Q&A — RAG System with Gemini
 
@@ -131,15 +126,8 @@ Placement platform connecting students, recruiters and placement officers into a
 
 ---
 
-# > Github-Stats
+#  Github-Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=meetsalmvn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetsalmvn&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <br>
 
@@ -151,17 +139,8 @@ Placement platform connecting students, recruiters and placement officers into a
 
 ---
 
-# > Github-Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meetsalmvn&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# > Contribution-Graph
+#  Contribution-Graph
 
 <div align="center">
 
@@ -171,7 +150,7 @@ Placement platform connecting students, recruiters and placement officers into a
 
 ---
 
-# > Currently-Learning
+#  Currently-Learning
 
 - ⚛ React
 - 🌐 MERN Stack
@@ -183,7 +162,7 @@ Placement platform connecting students, recruiters and placement officers into a
 
 ---
 
-# > Connect-with-me
+#  Connect-with-me
 
 <div align="center">
 
